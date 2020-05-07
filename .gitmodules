@@ -1,0 +1,4 @@
+[submodule "Engine"]
+	path = Engine
+	url = git@github.com:krovma/Engine.git
+	branch = master
